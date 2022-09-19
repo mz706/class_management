@@ -1,0 +1,4 @@
+//add new batch
+//batch tables with the filter , pagination , search , cource type filter
+//update single batch details , status change , start date changes , 
+//delete multiple batches from the tables
